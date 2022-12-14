@@ -1,0 +1,141 @@
+.header{
+position: absolute;
+width: 1920px;
+height: 47px;
+left: 0px;
+top: 0px;
+
+background: #2A2A2A;
+}
+
+.headeremailsvg{
+    position: absolute;
+width: 24px;
+height: 24px;
+left: 388px;
+top: 11px;
+}
+
+.headeremailtext{
+position: absolute;
+width: 114px;
+height: 9px;
+left: 418px;
+top: 9px;
+
+font-family: 'Noto Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 16px;
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+}
+
+.headervector{
+position: absolute;
+width: 0px;
+height: 14px;
+left: 549px;
+top: 16px;
+
+border: 1px solid gray;
+}
+
+.headertext{
+display: flex;
+position: absolute;
+align-items: center;
+width: 186px;
+height: 10px;
+left: 569px;
+top: 9px;
+
+font-family: 'Noto Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 16px;
+
+
+
+color: #FFFFFF;
+}
+
+.contactssvg{
+display: flex;    
+position: absolute;
+width: 132px;
+height: 18px;
+left: 1154px;
+top: 14px;
+
+}
+
+.languageselection{
+position: absolute;
+width: 102px;
+height: 18px;
+left: 1326px;
+top: 14px;
+
+}
+
+.planguage{
+    position: absolute;
+    display: flex;
+    align-items: center;
+    width: 42px;
+    height: 9px;
+    left: 35px;
+    top: -6px;
+    
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 16px;
+    
+    
+    color: #ffffff;    
+}
+
+.headervector2{
+    position: absolute;
+width: 0px;
+height: 14px;
+left: 1448px;
+top: 16px;
+
+border: 1px solid rgba(255, 255, 255, 0.5);
+}
+
+.headerlogin{
+    position: absolute;
+width: 62px;
+height: 24px;
+left: 1468px;
+top: 11px;
+
+}
+
+.plogin{
+    position: absolute;
+    display: flex;
+    align-items: center;
+    width: 32px;
+    height: 9px;
+    left: 30px;
+    top: -4px;
+    
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 1000;
+    font-size: 15px;
+    line-height: 16px;
+    
+    
+    color: #FFFFFF;
+}
